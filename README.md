@@ -1,2 +1,2 @@
 # My-Rabbitmq-tutorials
-My study of rabbitmq
+hello, friends, the above is my summary of Rabbitmq!
